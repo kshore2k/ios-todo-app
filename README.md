@@ -1,5 +1,5 @@
 # iOS To-Do App
-Simple application for creating a list of To-Do's. 
+Simple application for creating a list of To-Do's. Includes Core Data to persist your to-do list after the app closes.
 
 ## Users
 - Can create to-do's
