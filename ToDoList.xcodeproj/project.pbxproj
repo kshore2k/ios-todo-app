@@ -105,9 +105,9 @@
 			children = (
 				48DCE17B226F98A600BB02B7 /* AppDelegate.swift */,
 				48DCE17D226F98A600BB02B7 /* ToDoListViewController.swift */,
+				48DCE17F226F98A600BB02B7 /* Main.storyboard */,
 				48DCE1AE226FDDC700BB02B7 /* AddItemDelegate.swift */,
 				48DCE1AC226FD9DA00BB02B7 /* AddItemViewController.swift */,
-				48DCE17F226F98A600BB02B7 /* Main.storyboard */,
 				48DCE185226F98A700BB02B7 /* Assets.xcassets */,
 				48DCE187226F98A700BB02B7 /* LaunchScreen.storyboard */,
 				48DCE18A226F98A700BB02B7 /* Info.plist */,
