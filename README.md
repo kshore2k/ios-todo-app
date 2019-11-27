@@ -9,4 +9,4 @@ Simple application for creating a list of To-Do's.
 ## Technologies
 - **Swift iOS**
 ### Preview
-![alt text](./iOsToDo.gif "iOS To-Do's")
+<img src="./iOsToDo.gif" height="400" alt="To-Do's" />
